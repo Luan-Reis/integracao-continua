@@ -18,8 +18,7 @@ public class FiltroCors {
         corsConfig.setAllowCredentials(true);
         corsConfig.setAllowedOrigins(
             Arrays.asList(
-                "http://127.0.0.1:5500",
-                "https://localhost:4200")
+                "https://sgcm-luan2.up.railway.app/")
         );
         corsConfig.setAllowedMethods(Arrays.asList("*"));
         corsConfig.setAllowedHeaders(Arrays.asList("*"));

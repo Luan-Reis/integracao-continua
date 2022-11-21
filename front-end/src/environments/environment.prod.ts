@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  API_URL: 'https://sgcm-luan2.up.railway.app/'
+  API_URL: "https://sgcm-luan.up.railway.app/"
 };
